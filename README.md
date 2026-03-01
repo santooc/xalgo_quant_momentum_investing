@@ -1,2 +1,2 @@
 # xalgo_quant_momentum_investing
-🚀 AI InvestmentyCrew - Automated Investmwent analysis using Prop AI framework
+🚀 AI InvestmentCrew - Automated Investmwent analysis using Prop AI framework
